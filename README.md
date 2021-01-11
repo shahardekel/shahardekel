@@ -1,5 +1,5 @@
 Hi! 🙋‍
-======
+------
 - I'm Shahar! 
 - I'm into manipulating and exploring data 📊 
 - I'm into AI and ML 🔬 
@@ -9,3 +9,5 @@ Hi! 🙋‍
 - 🐍 I’m currently learning Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahardekel&hide=c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LinkedIn](https://www2.le.ac.uk/departments/engineering/people/academic-staff/ioannis_kyriakopoulos/ViewLinkedinProfilebutton.png)](https://www.linkedin.com/in/shahar-dekel/)
