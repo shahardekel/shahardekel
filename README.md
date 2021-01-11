@@ -6,5 +6,3 @@ Hi! 🙋‍
 
 - 🔭 I’m currently working on my Bs.c in Information Systems Engineering 
 - 🐍 I’m currently learning Python
-- 📫 Reach me at shahardekel@campus.technion.ac.il
-
