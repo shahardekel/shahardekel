@@ -8,6 +8,3 @@ Hi! 🙋‍
 - 🐍 I’m currently learning Python
 - 📫 Reach me at shahardekel@campus.technion.ac.il
 
-👑 👑 👑 👑 👑
-
--->
