@@ -10,4 +10,4 @@ Hi! 🙋‍
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahardekel&hide=c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn](https://www2.le.ac.uk/departments/engineering/people/academic-staff/ioannis_kyriakopoulos/ViewLinkedinProfilebutton.png)](https://www.linkedin.com/in/shahar-dekel/)
+[![LinkedIn](https://www.cpa-wfy.com/wp-content/uploads/2016/01/LinkedInConnectButton.jpg)](https://www.linkedin.com/in/shahar-dekel/)
