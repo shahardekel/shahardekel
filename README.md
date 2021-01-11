@@ -1,4 +1,5 @@
 Hi! 🙋‍
+======
 - I'm Shahar! 
 - I'm into manipulating and exploring data 📊 
 - I'm into AI and ML 🔬 
