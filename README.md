@@ -6,6 +6,6 @@ Hi! 🙋‍
 - And I'm into learning new things every single day!🙌🏽
 
 - 🔭 I’m currently working on my Bs.c in Information Systems Engineering 
-- 🐍 I’m currently learning Python
+- 🐍 I’m currently working with Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahardekel&hide=c&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
