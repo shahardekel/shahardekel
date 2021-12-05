@@ -8,4 +8,4 @@ Hi! 🙋‍
 - 🔭 I’m currently working on my Bs.c in Information Systems Engineering 
 - 🐍 I’m currently working with Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahardekel&hide=c,jupyter-notebook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahardekel&hide=c,python&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
